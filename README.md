@@ -11,8 +11,8 @@ Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento
 
 ### 🛠 Habilidades e Tecnologias
 - **Linguagens:** Python, JavaScript, TypeScript
-- **Frameworks:** Django, FastAPI, React
-- **Banco de Dados:** PostgreSQL, noSQL
+- **Bibliotecas e Frameworks**: Django (framework), FastAPI (framework), React (biblioteca para interfaces de usuário)
+- **Banco de Dados:** PostgreSQL, noSQL, MYSQL, Mongodb
 - **Ferramentas:** Docker, Power BI, Streamlit
 - **Interesse:** Configuração e uso de LLMs com **Ollama**
 
