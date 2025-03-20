@@ -18,12 +18,6 @@ Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juarezrbr1&show_icons=true&theme=radical" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juarezrbr1&layout=compact&theme=radical" />  
-</div>
-
 ##
 ### 🌐 Conecte-se comigo
 <div>
