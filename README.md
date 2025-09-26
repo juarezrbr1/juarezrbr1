@@ -1,11 +1,14 @@
 # Olá! Sou o Juarez Ribeiro 👋
-Seja bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento de software, com experiência em diversas linguagens e ferramentas.
+Seja bem-vindo(a) ao meu perfil! Sou Founder & CTO da Startup Zayon e Programador de Sistemas na MSI Engenharia & Tecnologia.
+Apaixonado por tecnologia, inovação e soluções que impactam positivamente a sociedade, tenho experiência em desenvolvimento full stack, computação em nuvem e inteligência artificial.
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalho como **Programador de Sistemas** na **MSI Engenharia & Tecnologia**.
-- 🌱 Estou estudando **TypeScript** para expandir minhas habilidades em **desenvolvimento Full Stack**.
-- ⚡ Apaixonado por **dados, automações e inteligência artificial**.
-- 💼 Explorando novas tecnologias e criando projetos que resolvem problemas do mundo real.
+- 💼 CTO na Zayon – liderança técnica, estratégia de produtos e infraestrutura em nuvem.
+- 🔭 Programador de Sistemas na MSI Engenharia & Tecnologia – desenvolvimento de sistemas de alto impacto.
+- 🌱 Estudando TypeScript, LLMs e arquiteturas em nuvem para expandir minhas habilidades.
+- ⚡ Apaixonado por dados, automações e IA aplicada ao mundo real.
+
+☁️ Experiência em AWS e Azure, com foco em escalabilidade e boas práticas de deploy.
 
 ---
 
