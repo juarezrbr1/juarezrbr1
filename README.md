@@ -16,7 +16,7 @@ Apaixonado por tecnologia, inovação e soluções que impactam positivamente a 
 - **Bibliotecas e Frameworks**: Django (framework), FastAPI (framework), React (biblioteca para interfaces de usuário).
 - **Banco de Dados:** PostgreSQL, noSQL, MYSQL, Mongodb.
 - **Ferramentas:** Docker, Power BI, Streamlit.
-- **Integrações com AI: ** Além do uso de AI no desenvolvimento, também em integrações e análises em produção.
+- **Integrações com AI:** Além do uso de AI no desenvolvimento, também em integrações e análises em produção.
 - **Interesse:** Configuração e uso de LLMs com **Ollama**
 
 ---
