@@ -23,11 +23,25 @@ Apaixonado por tecnologia, inovação e soluções que impactam positivamente a 
 
 ##
 ### 🌐 Conecte-se comigo
-<div>
-  <a href="https://juarezribeiro.com.br" target="_blank">Meu Portifólio</a>
-  <a href="https://www.linkedin.com/in/juarez-ribeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/juarez_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<div align="left">
+  <a href="https://juarezribeiro.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
+
+  <a href="https://www.linkedin.com/in/juarez-ribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/juarez_ribeiro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="mailto:contato@juarezribeiro.com.br">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="juarez-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
