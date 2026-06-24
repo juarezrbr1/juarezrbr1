@@ -24,6 +24,7 @@ Apaixonado por tecnologia, inovação e soluções que impactam positivamente a 
 ##
 ### 🌐 Conecte-se comigo
 <div>
+  <a href="https://juarezribeiro.com.br" target="_blank">Meu Portifólio</a>
   <a href="https://www.linkedin.com/in/juarez-ribeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/juarez_ribeiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
