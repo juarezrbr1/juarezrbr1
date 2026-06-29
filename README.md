@@ -12,12 +12,15 @@ Apaixonado por tecnologia, inovação e soluções que impactam positivamente a 
 ---
 
 ### 🛠 Habilidades e Tecnologias
-- **Linguagens:** Python, JavaScript, TypeScript.
-- **Bibliotecas e Frameworks**: Django (framework), FastAPI (framework), React (biblioteca para interfaces de usuário).
-- **Banco de Dados:** PostgreSQL, noSQL, MYSQL, Mongodb.
-- **Ferramentas:** Docker, Power BI, Streamlit.
-- **Integrações com AI:** Além do uso de AI no desenvolvimento, também em integrações e análises em produção.
-- **Interesse:** Configuração e uso de LLMs com **Ollama**
+- **Linguagens:** Python, TypeScript e JavaScript, com foco no desenvolvimento de aplicações escaláveis e de alta performance.
+- **Back-end: Desenvolvimento de APIs REST e serviços utilizando Django e FastAPI, aplicando boas práticas de arquitetura, autenticação, segurança, testes e documentação.
+- **Front-end:** Desenvolvimento de interfaces modernas com React, priorizando componentização, performance e experiência do usuário.
+- **Banco de Dados:** Modelagem, otimização de consultas e integração com PostgreSQL, MySQL, MongoDB e bancos NoSQL.
+- **Infraestrutura e DevOps:** Docker para conteinerização de aplicações, gerenciamento de ambientes e automação de processos de desenvolvimento e implantação.
+- **Dados e Analytics:** Desenvolvimento de dashboards e análises com Power BI e Streamlit para suporte à tomada de decisão.
+- **Inteligência Artificial:** Desenvolvimento de soluções baseadas em IA, integração de LLMs em aplicações, automação de processos, análise de dados e implementação de fluxos inteligentes em ambientes de produção.
+- **LLMs e IA Local:** Configuração, execução e otimização de modelos de linguagem locais, explorando inferência, engenharia de prompts, RAG, integração com APIs e orquestração de agentes de IA.
+- **Boas Práticas:** Arquitetura de software, princípios SOLID, Clean Code, versionamento com Git, documentação técnica e desenvolvimento orientado à qualidade e manutenção.
 
 ---
 
