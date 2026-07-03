@@ -13,7 +13,7 @@ Apaixonado por tecnologia, inovação e soluções que impactam positivamente a 
 
 ### 🛠 Habilidades e Tecnologias
 - **Linguagens:** Python, TypeScript e JavaScript, com foco no desenvolvimento de aplicações escaláveis e de alta performance.
-- **Back-end: Desenvolvimento de APIs REST e serviços utilizando Django e FastAPI, aplicando boas práticas de arquitetura, autenticação, segurança, testes e documentação.
+- **Back-end:** Desenvolvimento de APIs REST e serviços utilizando Django e FastAPI, aplicando boas práticas de arquitetura, autenticação, segurança, testes e documentação.
 - **Front-end:** Desenvolvimento de interfaces modernas com React, priorizando componentização, performance e experiência do usuário.
 - **Banco de Dados:** Modelagem, otimização de consultas e integração com PostgreSQL, MySQL, MongoDB e bancos NoSQL.
 - **Infraestrutura e DevOps:** Docker para conteinerização de aplicações, gerenciamento de ambientes e automação de processos de desenvolvimento e implantação.
